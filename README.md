@@ -1,3 +1,16 @@
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/00135845a9d1fbe3696c98454834efbd7b4329fb/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_readme_1024x466.png "Fermat Logo")
+
+# IoP CAN NET iptb
+
+> This is our implementation of iptb.
+
+In order to keep this neat and tidy, we have written our documentation at:
+[IoP CAN NET DOCs](https://github.com/Fermat-ORG/iop-content-address-network-documentation).
+
+Original content follows:
+
+
+
 # IPTB
 `iptb` is a program used to create and manage a cluster of sandboxed IPFS nodes locally on your computer. Spin up 1000s of nodes! It exposes various options, such as different bootstrapping patterns. `iptb` makes testing IPFS networks easy!
 
